@@ -4,8 +4,8 @@
 int main(void)
 {
 char *args[MAX LINE/2 + 1]; /* command line arguments */
-int should run = 1; /* flag to determine when to exit program */
-while (should run) {
+int should_run = 1; /* flag to determine when to exit program */
+while (should_run) {
 printf("osh>");
 fflush(stdout);
 /**
