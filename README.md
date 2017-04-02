@@ -1,2 +1,2 @@
 # basic-shell
-Part One of the project assignment dealing with processes
+Makes a terminal where you enter commands 
